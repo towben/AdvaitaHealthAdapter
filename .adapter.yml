@@ -6,8 +6,8 @@ platforms:
   - AWS Lambda
   - GCP Functions
 data_sources:
-  - name: AdvaitaHealthAdapter
-  - url: http://advaita.world
+  - name: Example
+    url: https://example.com
 parameters:
   - base
   - quote
