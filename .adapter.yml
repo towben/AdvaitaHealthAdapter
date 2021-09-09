@@ -1,0 +1,13 @@
+Repository Owner: towben
+Repository Name: AdvaitaHealthAdapter
+Subfolder: /tcmapi
+Name: TCMAPI
+Description: External Adapter for TCMAPI from the AdvaitaHealth
+Node Identifier: AdvaitaHealth-tcmapi
+platforms:
+  - Docker
+  - AWS Lambda
+  - GCP Functions
+data_sources:
+  - name: TCMAPI
+  - url: http://advaita.world
