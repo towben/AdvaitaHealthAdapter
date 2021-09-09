@@ -1,6 +1,6 @@
 name: AdvaitaHealthAdapter
-description: External Adapter for TCMAPI from the AdvaitaHealth
-node_identifier: AdvaitaHealthTcmApi
+description: An example adapter that does something.
+node_identifier: example
 platforms:
   - Docker
   - AWS Lambda
