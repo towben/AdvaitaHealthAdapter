@@ -6,7 +6,7 @@ platforms:
   - AWS Lambda
   - GCP Functions
 data_sources:
-  - name: TCMAPI
+  - name: AdvaitaHealthAdapter
   - url: http://advaita.world
 parameters:
   - base
