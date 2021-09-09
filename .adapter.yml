@@ -1,6 +1,6 @@
 name: AdvaitaHealthAdapter
 description: An example adapter that does something.
-node_identifier: example
+node_identifier: AdvaitaHealthAdapter
 platforms:
   - Docker
   - AWS Lambda
